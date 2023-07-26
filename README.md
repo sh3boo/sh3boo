@@ -2,6 +2,7 @@
 #### I am a student at computer science and Artificial Intelligence  
 I am a student at CS cairo university and flutter developer  
 I have a very good knowledge in the software engineering and also a great knowledge in data structures ,data base , network.
+I am hard worker and working smart .
 
 
 Skills: 

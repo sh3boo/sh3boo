@@ -4,7 +4,16 @@ I am a student at CS cairo university and flutter developer
 I have a very good knowledge in the software engineering and also a great knowledge in data structures ,data base , network.
 
 
-Skills: C++/ Python / Java / JS / HTML / CSS / SQL / Dart /problem soving / flutter
+Skills: * C++
+* Python
+* Java
+* JS
+* HTML
+* CSS
+* SQL
+* Dart
+* problem soving
+* flutter
 
 ## - 🔭 to contact me : 
 

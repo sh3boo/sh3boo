@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**sh3boo/sh3boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is ahmed shaban yousef
+#### I am a student at computer science and Artificial Intelligence  
+![I am a student at computer science and Artificial Intelligence  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I am a student at CS cairo university and flutter developer 
+I have a very good knowledge in the software engineering and also a great knowledge in data structures ,data base , network.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: C++/ Python / Java / JS / HTML / CSS / SQL / Dart /problem soving / flutter
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

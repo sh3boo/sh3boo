@@ -13,7 +13,7 @@ Skills:
 * CSS
 * SQL
 * Dart
-* problem sovling
+* problem solving
 * flutter
 
 ## - 🔭 to contact me : 

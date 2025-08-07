@@ -1,4 +1,4 @@
-### Hello who ever you are ❤, i am ahmed shaban yousef
+### Hello who ever you are ❤, i am Ahmed Shaban Yousef
 #### I am a studying computer science and Artificial Intelligence  
 I am a student at CS cairo university and .Net developer 
 I have a very good knowledge in software engineering feilds and also a great knowledge in data structures ,data base , network, Design Patterns, SOLID principles.

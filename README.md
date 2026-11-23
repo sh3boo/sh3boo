@@ -1,136 +1,138 @@
-<h1 align="center">Hi, I'm Ahmed Shaban Yousef 👋</h1>
+# Ahmed Shaban
 
-<h3 align="center">Full-Stack .NET Developer | Backend Engineer | Computer Science & AI Graduate</h3>
+**Backend Developer · .NET / SQL Server / REST APIs**
 
-<p align="center">
-  <a href="https://github.com/sh3boo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/ahmed-shaban-8402b2246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ahmedshanan2021@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/2-hero-light.gif">
+  <img src="assets/1-hero-dark.gif" alt="Ahmed Shaban. Backend systems, built with purpose." width="100%">
+</picture>
 
-## About Me
+I build backend systems for real business workflows. At **National Quality**, I work on ERP features with ASP.NET Core, Web API and SQL Server, from database logic to application features.
 
-I am a Computer Science and Artificial Intelligence graduate from Cairo University and a Full-Stack .NET Developer with hands-on experience building and maintaining enterprise ERP solutions.
+**Giza, Egypt · Open to relocation · Cairo University, Computer Science & AI graduate**
 
-My work focuses on scalable backend development, RESTful APIs, database design, SQL Server stored procedures, query optimization, and reliable business logic. I enjoy transforming complex requirements into clean, efficient software while continuously expanding my knowledge of software architecture, AI, and cloud-native development.
+[LinkedIn](https://www.linkedin.com/in/ahmed-shaban-8402b2246/) · [Email me](mailto:ahmedshanan2021@gmail.com) · [Explore my repositories](https://github.com/sh3boo?tab=repositories)
 
-- 💼 Full-Stack .NET Developer at **National Quality**
-- 🎓 Computer Science & Artificial Intelligence graduate from **Cairo University**
-- 🧠 Strong foundation in data structures, databases, networks, design patterns, and SOLID principles
-- ⚙️ Experienced with ERP systems, API development, performance optimization, and Agile delivery
-- 🌱 Interested in microservices, cloud technologies, DevOps, and AI-powered products
-- 📍 Based in Giza, Egypt and open to relocation
+## 01 / What I work with
 
-## Professional Experience
+**Backend**  
+`C#` `ASP.NET Core` `Web API` `MVC` `REST` `SOAP`
 
-### Full-Stack .NET Developer — National Quality
+**Data**  
+`SQL Server` `Entity Framework` `Dapper` `ADO.NET` `LINQ`
 
-**July 2025 – Present | Full-time, On-site**
+**Engineering**  
+`Git` `Docker` `Kubernetes` `Azure` `CI/CD` `Agile`
 
-- Develop, enhance, and maintain ERP features using ASP.NET Core MVC and Web API.
-- Build database-heavy solutions with SQL Server queries, stored procedures, functions, and performance tuning.
-- Collaborate with cross-functional teams in an Agile environment to analyze business requirements and deliver scalable solutions.
-- Use Entity Framework, Dapper, ADO.NET, LINQ, and DevExpress across enterprise modules.
-- Improve application performance and data integrity through query optimization and backend enhancements.
+<details>
+<summary>Explore my wider toolkit</summary>
 
-### AI Model Trainer — Yandex
+- **Languages:** C++, Java, Python, JavaScript and SQL.
+- **Web & application projects:** Django, Spring Boot, React and Flutter.
+- **Database work:** Schema design, stored procedures, functions and query optimization.
+- **Delivery:** Azure DevOps, code reviews, DevExpress and Scrum.
 
-**July 2024 – May 2026 | Part-time**
+</details>
 
-- Contributed to training the Yango Play AI model, **Yasmina**.
-- Achieved more than 22,000 quota points and received two awards for performance and contributions.
+## 02 / Selected projects
 
-### Full-Stack .NET Web Developer Intern — Digital Egypt Pioneers Initiative (DEPI)
+### Plantopia · Graduation project
+Plant health checks from images using an AI model, paired with a plant e-commerce experience.
 
-**April 2024 – November 2024**
+`ASP.NET Core` `REST API` `Entity Framework` `Flutter`
 
-- Completed practical training in full-stack web development using the .NET ecosystem.
+[Explore the project →](https://github.com/sh3boo/Plantobia)
 
-## Featured Work
+### Clinica · Doctor appointments
+A booking application for finding doctors by specialty, location and availability.
 
-### NQ ERP System
+`ASP.NET Core` `Web API` `SQL Server` `React`
 
-An enterprise resource planning platform supporting core organizational operations across multiple business domains.
+[Explore the project →](https://github.com/sh3boo/Clinica)
 
-- **HR:** Employee onboarding, salary tracking, employee records, and department transfers for 100+ employees.
-- **Warehouse:** Inventory management for 5,000+ items, automated stock transfers, real-time updates, and DevExpress reports.
-- **Sales:** Orders, invoices, customer accounts, and revenue tracking.
-- **Purchasing:** Supplier management, purchase orders, procurement workflows, and cost tracking.
-- **Production:** Production workflows, material consumption, and production planning.
-- **Concrete:** Mix-design tracking, batching processes, and delivery management.
-- **Maintenance:** Equipment maintenance schedules, service tracking, and operational reporting.
-- **Finance:** Cash-in/cash-out workflows, balance management, transaction tracking, and financial reports.
-- **Integrations:** Salla e-commerce synchronization and Banque Misr automated payroll transfers.
+### Orders & Notifications · Backend services
+REST APIs for customer accounts, product orders and notifications.
 
-## Projects
+`Java` `Spring Boot` `REST API`
 
-### 🌿 Plantopia — Graduation Project
+[Explore the project →](https://github.com/sh3boo/Orders_and_Notifications_Management)
 
-An AI-powered plant disease detection application that analyzes plant images and identifies health conditions. It also includes a complete e-commerce experience for browsing and purchasing plants.
+<details>
+<summary>More projects: student affairs, C++ and e-commerce</summary>
 
-`ASP.NET Core` `RESTful API` `Entity Framework` `SQL Server` `Flutter` `AI`
+- [Student Affairs Website](https://github.com/sh3boo/Student_Affairs_Website): Student information, department assignments and status changes using Django.
+- [Library System](https://github.com/sh3boo/Library_System): A C++ library management application with file-based storage.
+- [Ecommerce](https://github.com/sh3boo/Ecommerce): A .NET project using Docker and microservices.
 
-### 🩺 Clinica
+The linked repositories include collaborative projects and forks. They are presented as project work, not as claims of sole authorship.
 
-A doctor appointment platform that helps users find and book doctors by specialty, location, and availability.
+</details>
 
-`ASP.NET Core` `Web API` `Entity Framework` `SQL Server` `React`
+## 03 / Experience, beyond the code
 
-### 🎓 Student Affairs Website
+### National Quality · Full-Stack .NET Developer
+**Jul 2025 - Present · Full-time, on-site**
 
-A system for managing student information, department assignments, and academic status changes.
+I develop and maintain ERP features using ASP.NET Core MVC, Web API and SQL Server. My work includes database queries, stored procedures, performance improvements and backend business logic.
 
-`Python` `Django` `HTML` `CSS` `JavaScript`
+<details>
+<summary>Explore the ERP work</summary>
 
-### 📚 Library Management System
+- **People & stock:** HR workflows for 100+ employees and warehouse inventory covering 5,000+ items.
+- **Business operations:** Sales, purchasing, production, concrete operations and maintenance.
+- **Finance & integrations:** Cash-in/cash-out workflows, Salla order synchronization and Banque Misr payroll transfers.
+- **Data access & reporting:** Entity Framework, Dapper, ADO.NET and DevExpress.
 
-A C++ application that manages library records using file-based storage and retrieval.
+</details>
 
-`C++` `File Handling`
+<details>
+<summary>Yandex · AI Model Trainer · Jul 2024 - May 2026</summary>
 
-### 📦 Orders & Notifications Management System
+Part-time AI model training work on Yango Play's Yasmina. Achieved over 22,000 quota points and received two performance awards.
 
-A Spring Boot application providing RESTful APIs for customer accounts, product orders, and notifications.
+This was AI training work, separate from my .NET development role.
 
-`Java` `Spring Boot` `RESTful API`
+</details>
 
-## Technical Skills
+<details>
+<summary>DEPI · Full-Stack .NET internship · Apr - Nov 2024</summary>
 
-| Area | Technologies |
-| --- | --- |
-| Languages | C#, C++, Java, Python, JavaScript, SQL, Dart |
-| Backend | .NET, ASP.NET Core, MVC, Web API, RESTful APIs, SOAP, Spring Boot, Django |
-| Data Access | Entity Framework, Dapper, ADO.NET, LINQ |
-| Databases | SQL Server, database design, stored procedures, query optimization |
-| Frontend & Mobile | HTML, CSS, JavaScript, React, Flutter |
-| DevOps & Cloud | Docker, Kubernetes, Azure, Azure DevOps, CI/CD |
-| Tools & Practices | Git, GitHub, DevExpress, Agile, Scrum, code reviews, design patterns, SOLID principles |
+Practical full-stack .NET web development training through the Digital Egypt Pioneers Initiative.
 
-## Certifications
+</details>
 
-- **Microservices Architecture with .NET Core** — May 2026  
-  Scalable ASP.NET Core microservices, Azure DevOps CI/CD, Docker, and Kubernetes.
-- **HCIA-AI Certification** — Huawei & Egyptian Ministry of Communications, August 2024
-- **C++ Intern Certification** — CodeSoft, August 2023
+<details>
+<summary>Education & certifications</summary>
 
-## Education
+**Computer Science and Artificial Intelligence, Cairo University**  
+Oct 2021 - Jun 2025
 
-**Bachelor's Degree in Computer Science and Artificial Intelligence**  
-Cairo University | October 2021 – June 2025
+- Microservices Architecture with .NET Core, May 2026.
+- HCIA-AI, Huawei & Egyptian Ministry of Communications, Aug 2024.
+- C++ Intern Certification, Code Soft, Aug 2023.
 
-## Languages
+**Languages:** Arabic, native. English, C1.
 
-- Arabic — Native
-- English — C1
+</details>
 
-## Let's Connect
+## 04 / Contribution snake
 
-I am always interested in collaborating on meaningful software, enterprise systems, backend engineering, and AI-powered applications.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/6-snake-light.svg">
+  <img src="assets/5-snake-dark.svg" alt="Animated snake following my public GitHub contribution calendar." width="100%">
+</picture>
 
-- [GitHub](https://github.com/sh3boo)
-- [LinkedIn](https://www.linkedin.com/in/ahmed-shaban-8402b2246/)
-- [Facebook](https://www.facebook.com/ahmed.shaban.7564?mibextid=LQQJ4d)
-- [Instagram](https://www.instagram.com/ahmed_shapan0?igshid=MmIzYWVlNDQ5Yg==/)
-- [Email](mailto:ahmedshanan2021@gmail.com)
+My public contribution calendar, turned into an animation. Generated daily with [Platane/snk](https://github.com/Platane/snk), not a playable game or a live activity feed.
 
-<p align="center"><em>Building reliable software, one clean solution at a time.</em></p>
+## 05 / GitHub pulse
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/4-pulse-light.svg">
+  <img src="assets/3-pulse-dark.svg" alt="Public GitHub snapshot. Follow the links below to view current repositories and activity." width="100%">
+</picture>
+
+Generated from public GitHub data, with a scheduled daily refresh. The card shows its last successful update in UTC, not a live feed. [View current repositories](https://github.com/sh3boo?tab=repositories).
+
+---
+
+**Working on a backend challenge?** [Let's talk.](mailto:ahmedshanan2021@gmail.com)
